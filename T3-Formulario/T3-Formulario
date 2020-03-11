@@ -7,7 +7,7 @@
     <title>Formulario</title>
 </head>                                                                                                                           
 <body>
-    <h1>Este será mi formulario</h1>
+    <h1>Crear cuenta</h1>
     <form >
         <div class="container">
              <div class="form-row">
